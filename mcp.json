@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "strategytune": {
+      "type": "http",
+      "url": "https://strategytune.com/mcp"
+    }
+  }
+}

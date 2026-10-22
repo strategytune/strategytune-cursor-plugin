@@ -1,0 +1,35 @@
+{
+  "name": "strategytune",
+  "displayName": "StrategyTune",
+  "version": "1.0.0",
+  "description": "Build, backtest and research trading strategies on real tick-by-tick historical market data through the StrategyTune MCP server.",
+  "author": {
+    "name": "StrategyTune",
+    "email": "support@strategytune.com"
+  },
+  "homepage": "https://strategytune.com/docs/connected-ai/capabilities",
+  "repository": "https://github.com/strategytune/strategytune-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "strategytune",
+    "backtesting",
+    "trading",
+    "strategy",
+    "indicators",
+    "market data",
+    "forex",
+    "futures",
+    "quant",
+    "research",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "finance",
+    "trading",
+    "backtesting",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
